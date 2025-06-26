@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore, serverTimestamp } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCrkwpSFW5e8LgroG619n4mcXkCw2m8ITI",
+  apiKey: "YOUR API KEY",
   authDomain: "shipment-app-c3f14.firebaseapp.com",
   projectId: "shipment-app-c3f14",
   storageBucket: "shipment-app-c3f14.appspot.com",
