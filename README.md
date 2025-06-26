@@ -39,7 +39,7 @@ A responsive and interactive shipment delivery tracking web app built with **Rea
 ---
 
 ## 📁 Project Structure
-
+```
 ├── public/
 ├── src/
 │ ├── components/
@@ -50,7 +50,7 @@ A responsive and interactive shipment delivery tracking web app built with **Rea
 ├── tailwind.config.js
 ├── postcss.config.js
 └── README.md
-
+```
 ---
 
 ## 🙋‍♂️ Author
