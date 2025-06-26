@@ -35,7 +35,6 @@ A responsive and interactive shipment delivery tracking web app built with **Rea
 ### 🔍 Track Shipment
 ![Track Shipment](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/trackshipment.png)
 
-> 📁 These screenshots should be inside a `/screenshots/` folder in your GitHub repository.
 
 ---
 
@@ -51,10 +50,6 @@ A responsive and interactive shipment delivery tracking web app built with **Rea
 ├── tailwind.config.js
 ├── postcss.config.js
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
