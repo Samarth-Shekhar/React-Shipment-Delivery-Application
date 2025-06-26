@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# 🚚 React Shipment Delivery Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive and interactive shipment delivery tracking web app built with **React**, **Firebase**, and **Tailwind CSS**.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Features
 
-### `npm start`
+- 🔐 User Registration and Login (Firebase Authentication)
+- 🧾 Create New Shipments with details
+- 📦 Track shipment status (Pending, In Transit, Delivered)
+- 🌙 Light / Dark Theme toggle
+- 📱 Fully Responsive and Stylish UI
+- 🛡️ Protected Routes using Firebase Auth
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📸 Screenshots
 
-### `npm test`
+### 🏠 Home Page
+![Home](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/home.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🔐 Login Page
+![Login](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/login.png)
 
-### `npm run build`
+### 📝 Register Page
+![Register](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/register.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📊 Dashboard
+![Dashboard](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/dashboard(2).png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🚚 New Shipment
+![New Shipment](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/newshipment.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🔍 Track Shipment
+![Track Shipment](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/trackshipment.png)
 
-### `npm run eject`
+> 📁 These screenshots should be inside a `/screenshots/` folder in your GitHub repository.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📁 Project Structure
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── firebase.js
+│ ├── App.js
+│ └── index.css
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+yaml
+Copy
+Edit
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🙋‍♂️ Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Samarth Shekhar**
+- [GitHub](https://github.com/Samarth-Shekhar)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📄 License
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is open-source and available under the [MIT License](LICENSE).
