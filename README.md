@@ -27,7 +27,7 @@ A responsive and interactive shipment delivery tracking web app built with **Rea
 ![Register](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/register.png)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard_2.png)
+![Dashboard](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/dashboard2.png)
 
 ### 🚚 New Shipment
 ![New Shipment](https://raw.githubusercontent.com/Samarth-Shekhar/React-Shipment-Delivery-Application/main/screenshots/new-shipment.png)
